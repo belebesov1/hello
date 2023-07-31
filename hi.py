@@ -1,3 +1,2 @@
-name = input("What is your preferred name? ")
+name = input("What is your mother's name? ")
 print(f"Hello {name}!")
-
